@@ -6,7 +6,7 @@ interface ICategoryProps {
 
 const Category: React.FC<ICategoryProps> = ({ children }: ICategoryProps) => {
   return (
-    <p className="uppercase text-second text-xs font-light bg-gray py-1 px-2 rounded-2xl">{children}</p>
+    <p className="uppercase text-second dark:text-white text-xs font-normal bg-gray dark:bg-second py-1 px-2 rounded-2xl">{children}</p>
   )
 }
 

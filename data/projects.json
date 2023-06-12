@@ -1,0 +1,76 @@
+[
+  {
+    "id": "c96660d4-f775-4256-a3d4-e6e2c3428a1b",
+    "title": "8ravo",
+    "categories": [
+      "Backend",
+      "PHP",
+      "JS"
+    ],
+    "year": "2022",
+    "cover": "/projects/8ravo/cover.png",
+    "images": [
+      "/projects/8ravo/cover.png",
+      "/projects/8ravo/8ravo_admin.png",
+      "/projects/8ravo/8ravo_contact.png",
+      "/projects/8ravo/8ravo_home.png",
+      "/projects/8ravo/8ravo_module_exemple.png",
+      "/projects/8ravo/8ravo_modules.png",
+      "/projects/8ravo/8ravo_profile.png"
+    ],
+    "description": "Projet de site web pour apprendre les bases d'un sujet en 8 étapes à travers différents modules.Ce projet a été réalisé sur 4 semaines de sprint durant l'année scolaire 2021-2022. Dans ce projet, j'ai principalement réalisé la partie back-end du site web, mis en place la base de données, changé les pages web statiques en dynamiques et créé le système d'affichage des étapes des modules."
+  },
+  {
+    "id": "92906980-8371-4d18-b36c-e313ce2e665f",
+    "title": "Siera Pouance",
+    "categories": [
+      "WordPress Custom",
+      "PHP"
+    ],
+    "year": "2022",
+    "cover": "/projects/siera-pouance/cover.png",
+    "images": [
+      "/projects/siera-pouance/siera-pouance_home.png",
+      "/projects/siera-pouance/siera-pouance_contact.png",
+      "/projects/siera-pouance/siera-pouance_jobs.png",
+      "/projects/siera-pouance/siera-pouance_rea.png"
+    ],
+    "description": "Siera Pouancé est une entreprise qui produit des ensembles métalliques complexes : centrales à béton, solutions de stockage de produits en vrac (céréales), carrières et sablières depuis 1988.Le site internet a été créé sur Wordpress avec un thème personnalisé lors d'un stage en la société Portobello Communication basée à Changé en France."
+  },
+  {
+    "id": "bcb4d46d-ea8b-4bca-8147-8de9fe0c0805",
+    "title": "Stopngocar",
+    "categories": [
+      "WordPress Custom",
+      "Backend",
+      "PHP"
+    ],
+    "year": "2022",
+    "cover": "/projects/stopngocar/cover.png",
+    "images": [
+      "/projects/stopngocar/cover.png",
+      "/projects/stopngocar/stopngocar_rem.png",
+      "/projects/stopngocar/stopngocar_spe.png",
+      "/projects/stopngocar/stopngocar_work.png"
+    ],
+    "description": "Stopngocar est un site internet promouvant l'application Stopngocar qui permet de mettre en relation auto-stoppeurs et chauffeurs.Le site internet a été créé sur Wordpress avec un thème personnalisé lors d'un stage dans l'entreprise Portobello Communication basée à Changé en France."
+  },
+  {
+    "id": "34911cc0-a2a2-4a81-b30c-0886b6825f77",
+    "title": "Tendance & Bois",
+    "categories": [
+      "WordPress Custom",
+      "Backend",
+      "PHP"
+    ],
+    "year": "2022",
+    "cover": "/projects/tendance-bois/cover.png",
+    "images": [
+      "/projects/tendance-bois/cover.png",
+      "/projects/tendance-bois/tendance-bois_act.png",
+      "/projects/tendance-bois/tendance-bois_contact.png",
+      "/projects/tendance-bois/tendance-bois_rea.png"
+    ],
+    "description": "Tendance & Bois is a company carrying out various works: interior fittings, extensions, terraces, insulation and others.The website was created on Wordpress with a custom theme during an internship in the company Portobello Communication based in Changé in France."
+  }
+]

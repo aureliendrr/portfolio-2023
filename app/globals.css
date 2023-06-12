@@ -5,3 +5,17 @@
 .card-shadow {
   box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, 0.2);
 }
+
+.skills-slider {
+  animation: 15s skillsSlider infinite linear;
+}
+
+@keyframes skillsSlider {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+}

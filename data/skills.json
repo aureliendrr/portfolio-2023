@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "image": "/skills/HTML.svg"
+  },
+  {
+    "title": "CSS",
+    "image": "/skills/CSS.svg"
+  },
+  {
+    "title": "JavaScript",
+    "image": "/skills/JS.svg"
+  },
+  {
+    "title": "TypeScript",
+    "image": "/skills/TS.svg"
+  },
+  {
+    "title": "NodeJS",
+    "image": "/skills/NodeJS.svg"
+  },
+  {
+    "title": "NextJS",
+    "image": "/skills/NextJS.svg"
+  },
+  {
+    "title": "React",
+    "image": "/skills/React.svg"
+  },
+  {
+    "title": "PHP",
+    "image": "/skills/PHP.svg"
+  },
+  {
+    "title": "Java",
+    "image": "/skills/Java.svg"
+  },
+  {
+    "title": "Unity",
+    "image": "/skills/Unity.svg"
+  }
+]

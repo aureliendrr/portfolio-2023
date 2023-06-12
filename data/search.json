@@ -1,0 +1,48 @@
+[
+  {
+    "category": "Pages",
+    "terms": [
+      {
+        "name": "Accueil",
+        "link": "/"
+      },
+      {
+        "name": "Projets",
+        "link": "/#projets"
+      },
+      {
+        "name": "À propos",
+        "link": "/#a-propos"
+      },
+      {
+        "name": "Contact",
+        "link": "/#contact"
+      },
+      {
+        "name": "Politique de confidentialité",
+        "link": "/politique-de-confidentialite"
+      }
+    ]
+  },
+  {
+    "category": "Projets",
+    "terms": [
+      {
+        "name": "8ravo",
+        "link": "/projets/c96660d4-f775-4256-a3d4-e6e2c3428a1b"
+      },
+      {
+        "name": "Siera Pouance",
+        "link": "/projets/92906980-8371-4d18-b36c-e313ce2e665f"
+      },
+      {
+        "name": "Stopngocar",
+        "link": "/projets/bcb4d46d-ea8b-4bca-8147-8de9fe0c0805"
+      },
+      {
+        "name": "Tendance & Bois",
+        "link": "/projets/34911cc0-a2a2-4a81-b30c-0886b6825f77"
+      }
+    ]
+  }
+]
