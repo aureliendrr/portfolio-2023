@@ -49,13 +49,13 @@ const NavBar: FC = ({ }: INavBarProps) => {
             })}
             <Divider type="vertical" className="hidden md:block" />
             <li className="flex items-center gap-6 md:gap-2">
-              <RoundedButton onClick={() => setSearchVisible(!searchVisible)}>
+              <RoundedButton onClick={() => { setSearchVisible(!searchVisible); setMenuState(false) }}>
                 <ImSearch size={20} />
               </RoundedButton>
-              <RoundedButton onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}>
+              <RoundedButton onClick={() => { setTheme(theme === 'dark' ? 'light' : 'dark'); setMenuState(false) }}>
                 {theme === 'dark' ? <BsFillSunFill size={20} /> : <BsFillMoonFill size={20} />}
               </RoundedButton>
-              <RoundedButton className="font-bold text-lg">FR</RoundedButton>
+              <RoundedButton className="font-bold text-lg" onClick={() => { setMenuState(false) }}>FR</RoundedButton>
             </li>
           </ul>
         </ul>
