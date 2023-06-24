@@ -5,6 +5,7 @@ import NavBar from '@/widgets/Navbar'
 import './globals.css'
 import { Montserrat } from 'next/font/google'
 import Footer from '@/widgets/Footer'
+import { useEffect } from 'react'
 
 const montserrat = Montserrat({ subsets: ["latin"], weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'] })
 
@@ -20,8 +21,8 @@ export default function RootLayout({
 }) {
 
   return (
-    <html lang="fr" className="scroll-smooth">
-      <body className={`${montserrat.className} text-black dark:text-white bg-light-gray dark:bg-black`}>
+    <html lang="fr">
+      <body className={`${montserrat.className} scroll-smooth text-black dark:text-white bg-light-gray dark:bg-black`}>
         <ThemeProvider attribute="class">
           <header>
             <NavBar />

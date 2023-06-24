@@ -17,7 +17,7 @@ const ProjectCard: React.FC<IProjectCardProps> = ({ title, year, categories, ima
     <div className="bg-light-gray dark:bg-light-black card-shadow rounded-2xl p-4 md:min-w-[350px] self-stretch flex flex-col justify-between gap-4 basis-0 grow">
       <div className="flex flex-col gap-4">
         <div className="w-full h-52 relative rounded-lg overflow-hidden">
-          <Image src={image} alt={title} fill className="object-cover" />
+          <Image src={image} alt={title} fill sizes="100" priority className="object-cover" />
         </div>
         <div className="flex justify-between items-center">
           <h3 className="font-bold text-xl">{title}</h3>

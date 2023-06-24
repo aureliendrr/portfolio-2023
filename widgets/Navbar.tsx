@@ -23,6 +23,17 @@ const NavBar: FC = ({ }: INavBarProps) => {
   const [searchVisible, setSearchVisible] = useState<boolean>(false);
 
   useEffect(() => {
+    document.addEventListener("keydown", searchShortcut)
+  })
+
+  function searchShortcut(e: KeyboardEvent) {
+    if ((e.metaKey || e.ctrlKey) && e.code === 'KeyK') {
+      e.preventDefault();
+      setSearchVisible(true);
+    }
+  }
+
+  useEffect(() => {
     if (searchVisible) {
       document.body.style.overflow = "hidden"
     } else {

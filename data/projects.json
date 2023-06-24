@@ -71,6 +71,20 @@
       "/projects/tendance-bois/tendance-bois_contact.png",
       "/projects/tendance-bois/tendance-bois_rea.png"
     ],
-    "description": "Tendance & Bois is a company carrying out various works: interior fittings, extensions, terraces, insulation and others.The website was created on Wordpress with a custom theme during an internship in the company Portobello Communication based in Changé in France."
+    "description": "Tendance & Bois est une entreprise réalisant divers travaux : aménagements intérieurs, extensions, terrasses, isolation et autres. Le site internet a été créé sur Wordpress avec un thème personnalisé lors d'un stage dans l'entreprise Portobello Communication basée à Changé en France."
+  },
+  {
+    "id": "74b21ad8-b273-4764-aaea-6bff227708b8",
+    "title": "Tech-Theory",
+    "categories": [
+      "Backend",
+      "PHP"
+    ],
+    "year": "2021",
+    "cover": "/projects/tech-theory/cover.jpg",
+    "images": [
+      "/projects/tech-theory/cover.jpg"
+    ],
+    "description": ""
   }
 ]
